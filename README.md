@@ -218,3 +218,11 @@ kubectl get pods -o wide
 The experiment successfully demonstrates Kubernetes Node Affinity using custom node labels. Required and preferred affinity were implemented to observe different scheduling behaviours. The label-removal experiment further demonstrated that existing Pods continue running even when their matching node labels are removed, while newly created Pods with unmet required affinity remain Pending.
 
 This experiment provides practical understanding of Kubernetes scheduling decisions and the distinction between scheduling-time constraints and execution-time behaviour.
+
+
+## 12.team-05
+1. Pradeep Bichagatti
+2. Bhavana B h
+3. Zakiya Tahasildar
+4. Abhinandan Belagavi
+    
